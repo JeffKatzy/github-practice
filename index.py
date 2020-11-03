@@ -17,3 +17,7 @@ def fix_page():
 def fix_page_again():
     return 'its fixed again'
 
+def new_feature():
+    return 'new'
+
+
