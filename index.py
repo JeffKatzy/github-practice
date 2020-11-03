@@ -10,3 +10,6 @@ def foobar():
 def baz():
     return 'hello world'
 
+def fix_page():
+    return 'its fixed'
+
