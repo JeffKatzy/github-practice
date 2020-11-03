@@ -1,2 +1,2 @@
 def run():
-    return 'hello world'
+    return 'hello everyone'
