@@ -13,3 +13,7 @@ def baz():
 def fix_page():
     return 'its fixed'
 
+
+def fix_page_again():
+    return 'its fixed again'
+
