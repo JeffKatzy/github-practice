@@ -7,3 +7,6 @@ def greeting():
 def foobar():
     pass
 
+def baz():
+    return 'hello world'
+
